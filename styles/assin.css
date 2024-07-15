@@ -1,0 +1,175 @@
+
+
+
+.azeret-mono-<uniquifier> {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.head{
+    background-image: url('../assets/Hero-bg.png');
+    background-size: 1440px 652px;
+     padding: 80px 250px 50px 250px;
+     text-align:center ;
+      font-family: "Azeret Mono"
+     
+    
+}
+.intro{
+    color: #0D1321;
+    font-size: 48px;
+    font-weight: bolder;
+    
+}
+.intro-1{
+    color:#0d13217a ;
+    font-size:16px ; padding: 0px 100px 10px 100px;
+   
+}
+.btn{
+    color:#FFFFFF ;
+    font-size: 20px;
+    background-color: #0d1321;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+   
+   
+} .first{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 50px;
+}
+.headline{
+    text-align: center;
+}
+.why{
+    color: #0D1321;
+    font-weight: 1000;
+    font-size: 48;
+    padding: 20PX;
+    font-family: "Azeret Mono";
+    text-align: center;
+
+}
+.sec{
+    font-family: "Azeret Mono";
+    background-color: #FFFFFF;
+    padding:50px 150px 50px 150px;
+    
+    margin: 200px;
+
+}
+.first1{
+    text-align: left;
+    padding: 50px 50px 25px 50px;
+    color: #0d1321b7;
+    
+}
+.btn1{
+    padding: 10px;
+}
+.description1{
+    color:#0d1321a9 ;
+    font-size:16 ;
+    font-weight:400;
+    padding: 10px 250px 50px 250px;
+    text-align: center;font-family: "Azeret Mono";
+}
+    .you{
+        text-align: center;
+        font-family: "Azeret Mono";
+        
+    
+
+    }
+    .tube{
+        border: 10px;
+        border-color: #d4d5d8;
+        
+    }
+    .div3{
+        list-style: none;
+        margin: 10px;
+        padding: 50px;
+    }
+.why5{ color: #0D1321;
+    font-weight: 1000;
+    font-size: 48;
+    
+    font-family: "Azeret Mono";
+
+}.description5{
+    color:#0d1321a9 ;
+
+    font-size:16 ;
+    font-weight:400;
+    font-family: "Azeret Mono";}
+    .sec4{
+        display: flex;
+        justify-content: space-evenly; margin: 10px 180px 50px 180px;
+    }
+    .sec3{
+        margin: 20px;
+    }
+    .hml{
+        background-size: 364px 299px;
+        background-color:#ff4b1e16;
+
+    }
+    .cs{background-size: 364px 299px;
+        background-color:#004de81b;
+
+    }.jv{background-size: 364px 299px;
+        background-color:#ffdd0019;
+
+    
+
+    }.foot{
+        background-image: url('../assets/handshake.jpg');
+        background-size: 1140px 313px ;
+        background-repeat: no-repeat;
+        background-position: center;
+        
+        
+    }.white{
+        color: #FFFFFF;
+    }
+    .div4{
+        display: flex;justify-content: space-around;
+
+}.no{
+    
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 0px 490px 30px 490px;
+}.text{
+    
+    font-family: "Azeret Mono";
+    font-size:40 ;
+    font-weight:400;
+    border-radius: 10px;
+    padding: 10px;
+    
+    
+    
+}.btn8{
+    border-radius: 10px;
+    font-weight: 600px;
+    font-size: 20px;
+    padding: 10px;
+    color: #0D1321;
+
+}
+.last{
+    list-style: none;
+    justify-content: space-around;
+    display: flex;
+}.foot2{
+    padding: 30px;
+    background-color: #21200d15;
+    margin: 30px 0px 0px 0px;
+}
